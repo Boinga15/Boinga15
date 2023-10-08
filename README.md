@@ -3,7 +3,6 @@
 <h2>Who am I?</h2>
 <ul>
   <li>👋 My name is Alexander Nair</li>
-  <li>🔊 Pronouns: He/Him</li>
   <li>💻 I'm currently looking into Artificial Intelligence, specifically Reinforcement Learning</li>
   <li>💬 I like to talk about games, technology, and book/comic series such as Tintin, Harry Potter, or Captain Underpants</li>
   <li>📗 My favourite book is "Art of War" by Sun Tzu</li>
