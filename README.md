@@ -1,11 +1,11 @@
-<h1>"All war is deception." - Sun Tzu</h1>
+<h1>"The past is history, the future is a mystery, but today is a gift. That is why it is called the present." - Master Oogway</h1>
 
 <h2>Who am I?</h2>
 <ul>
   <li>👋 My name is Alexander Nair</li>
   <li>💻 I'm currently looking into Artificial Intelligence, specifically Reinforcement Learning</li>
   <li>💬 I like to talk about games, technology, and book/comic series such as Tintin, Harry Potter, or Captain Underpants</li>
-  <li>📗 My favourite book is "Art of War" by Sun Tzu</li>
+  <li>📗 I am a Dungeon Master for a DnD group and an avid storyteller</li>
 </ul>
 
 <h2>Languages I know</h2>
