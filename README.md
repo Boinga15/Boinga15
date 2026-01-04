@@ -14,8 +14,8 @@
 <h3>Languages</h3>
 <img src="https://skillicons.dev/icons?i=py,rust,cpp,cs,java,html,css,js,ts,latex" />
 
-<h3>Frameworks and Engines</h3>
-<img src="https://skillicons.dev/icons?i=nextjs,nestjs,unity,unreal" />
+<h3>Frameworks, Libraries, and Engines</h3>
+<img src="https://skillicons.dev/icons?i=nextjs,nestjs,tensorflow,unity,unreal" />
 
 <h3>Database Management and Version Control</h3>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github,gitlab" />
