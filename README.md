@@ -28,11 +28,4 @@
 Desolate Drive (itch.io): https://boinga15.itch.io/desolate-drive<br>
 ChessCode (Esolang): https://esolangs.org/wiki/Chess_Code<br>
 Snakes At War (Typescript): https://saw.alexnair.com/<br>
-
-<h2>Github Statistics</h2>
-<div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boinga15&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-</div><br>
-<div align="center">
- <img width="" src="https://github-readme-stats.vercel.app/api?username=boinga15&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=tru" alt="My Github Status" />
  </div>
