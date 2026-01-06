@@ -3,12 +3,13 @@
 <p align="center">"If you know the enemy and know yourself, you need not fear the result of a hundred battles. if you know yourself but not the enemy, for every victory gained you will also suffer a defeat. If you know neither the enemy nor yourself, you will succumb in every battle." - Sun Tzu, Art of War</p>
 
 <h2>Who am I?</h2>
-<ul>
-  <li>My name is Alexander Nair.</li>
-  <li>I'm currently looking into Artificial Intelligence, specifically optimising LLMs and researching AGI.</li>
-  <li>I also like to program small little projects like games or tools for personal use.</li>
-  <li>I enjoy talking about games and stories. I'm an avid writer and play the role of th Dungeon Master for two different DnD groups.</li>
-</ul>
+<p>I'm Alex (Alexander Nair). Currently, I'm a university student studying Mathematics and Computer Science, MEng.</p>
+
+<p>Outside of my university curriculum, I like to create my own AI models and research the possibility of AGI.</p>
+
+<p>My other projects include making games, simple but useful software tools, and websites for sharing my creations.</p>
+
+<p>Beyond programming, I write stories, create music, and am a veteran DnD Dungeon Master.</p>
 
 <h2>Things that I know and use</h2>
 <h3>Languages</h3>
